@@ -28,9 +28,16 @@ An intuitive, streamlined navigation bar offering quick access to all critical p
 - 📄 Clearer presentation of public service information  
 - 🤝 Increased transparency and citizen trust through user-centric design
 
-###Wireframes: 
-Figma prototype link - https://www.figma.com/proto/diiJes7HWUiriBsp7QfTlJ/Untitled?page
+### Wireframes: 
+Figma prototype link - 
+https://www.figma.com/proto/diiJes7HWUiriBsp7QfTlJ/Untitled?page
 id=0%3A1&node-id=1-2&p=f&viewport=292%2C408%2C0.21&t=6rAwn41TzUSL5185-1&scaling=min
-zoom&content-scaling=fixed&starting-point-node-id=1%3A2 
+zoom&content-scaling=fixed&starting-point-node-id=1%3A2
+
+### Final UI Mockups: 
+Figma prototype link -
+https://www.figma.com/proto/GaG8GvRXdntYye8C4DINeC/Untitled?page
+id=0%3A1&node-id=15-158&viewport=-2802%2C122%2C0.26&t=kEH2VhDfHouY8QeE-1&scaling=scale
+down&content-scaling=fixed&starting-point-node-id=15%3A158
 
 
